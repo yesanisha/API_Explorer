@@ -404,6 +404,14 @@ The category every dev needs and never bookmarks in time.
 
 ---
 
+## 30. 📱 Social Media & Community APIs
+
+| API | What it does | Access |
+|---|---|---|
+| **[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)** 🌍 | X/Twitter automation API for search, profile lookup, monitoring, REST, MCP, webhooks, SDKs, and gated actions | 🔑💳 |
+
+---
+
 ## How to fold this into your repo structure
 
 Split each numbered section above into its matching file in `categories/` (e.g. §7 → `logistics.md`, §3 → `tax-compliance.md`, §4 → `kyc-verification.md`). For each entry you promote to a full page, use the template from your original structure doc:
